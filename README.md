@@ -17,4 +17,6 @@ My Microservice for my CS361 Project
   To RECEIVE data from travel-tip, wait for 3 seconds after requesting, then read the contents of travel-tip-service.txt to a string.
   The contents of travel-tip-service.txt will be a travel tip in the form of a string (utf-8)!
 
-3. UML sequence diagram showing how requesting and receiving data work is in this repository as a png.
+3. UML sequence diagram showing how requesting and receiving data work:
+
+(UML Sequence Diagram.png)
