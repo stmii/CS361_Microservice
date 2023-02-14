@@ -19,4 +19,4 @@ My Microservice for my CS361 Project
 
 3. UML sequence diagram showing how requesting and receiving data work:
 
-![UML Sequence Diagram]("UML Sequence Diagram.png")
+![image](https://user-images.githubusercontent.com/114119064/218671973-81f8235e-73d2-44ff-be4d-5e1539f22e00.png)
