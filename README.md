@@ -7,7 +7,9 @@ My Microservice for my CS361 Project
   
   Example:
   Overwrite whatever is in travel-tip-service.txt to 'tip'
+  
   Contents of travel-tip-service.txt should be: 'tip'
+  
   (do not include quotation marks)
 
 2. Clear instructions for how to RECEIVE data from the microservice you implemented:
